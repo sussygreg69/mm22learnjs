@@ -63,4 +63,3 @@ for(let i = 0; i < fruits.length; i++) {
 fruits.forEach(function (fruit){
     console.log(fruit);
 })
-
